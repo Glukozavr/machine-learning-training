@@ -6,6 +6,7 @@ This is a trainig repository to store my experiments with algorithms and approac
 
 # How to build
 
+0. Create virtual environment ```python3 -m venv venv```
 1. Activate virutal environment ```source venv/bin/activate```
 2. Run tests ```python setup.py pytest```
 3. Build library ```python setup.py bdist_wheel```
